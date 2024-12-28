@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-28T17:10:40 IST" name="Suite" finished-at="2024-12-28T17:11:09 IST" duration-ms="28818">
+    <groups>
+    </groups>
+    <test started-at="2024-12-28T17:10:40 IST" name="Test" finished-at="2024-12-28T17:11:09 IST" duration-ms="28818">
+      <class name="TestTisoAssignment.TestTisoAssignment.BillingAndProductCRUD">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestTisoAssignment.TestTisoAssignment.BillingAndProductCRUD@5b7a5baa]" started-at="2024-12-28T17:10:40 IST" name="setUp" finished-at="2024-12-28T17:10:41 IST" duration-ms="940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginAndProductCRUD()[pri:0, instance:TestTisoAssignment.TestTisoAssignment.BillingAndProductCRUD@5b7a5baa]" started-at="2024-12-28T17:10:41 IST" name="testLoginAndProductCRUD" finished-at="2024-12-28T17:11:09 IST" duration-ms="27754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginAndProductCRUD -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestTisoAssignment.TestTisoAssignment.BillingAndProductCRUD@5b7a5baa]" started-at="2024-12-28T17:11:09 IST" name="tearDown" finished-at="2024-12-28T17:11:09 IST" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestTisoAssignment.TestTisoAssignment.BillingAndProductCRUD -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
