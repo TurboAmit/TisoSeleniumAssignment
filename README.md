@@ -1,6 +1,4 @@
 # TisoSeleniumAssignment
-
-# TestTisoAssignment
 This repository contains an automated test script written in Java using Selenium WebDriver and TestNG for testing the billing and product CRUD (Create, Read, Update, Delete) functionality of the Tijarah application.
 
 # Features
